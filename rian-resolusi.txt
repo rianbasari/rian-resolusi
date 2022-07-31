@@ -2,3 +2,5 @@ Resolusi Rian
 - Menguasai Front-end Web Development 
 - Konsisten belajar setiap hari
 - Magang sebagai Web Developer
+- Belajar Back-end Web Development
+- Memiliki pengalaman di Web Development
